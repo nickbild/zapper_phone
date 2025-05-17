@@ -1,7 +1,5 @@
 # Zapper Phone
 
-*More info coming soon...*
-
 You didn't think the NES Zapper was just for shooting ducks, did you? I turned mine into a wireless phone.
 
 ![](https://raw.githubusercontent.com/nickbild/zapper_phone/refs/heads/main/media/logo.jpg)
