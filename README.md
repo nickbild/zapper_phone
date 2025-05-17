@@ -27,7 +27,7 @@ Here is a schematic for the transmitter. It is quite simple. The audio comes in 
 
 The other side of the transformer is in series with the power supply for the laser. Because it is coupled with the audio input, it modulates the intensity of the laser beam, encoding the audio.
 
-![](https://raw.githubusercontent.com/nickbild/zapper_phone/refs/heads/main/media/transmitter_schematic.jpg)
+![](https://raw.githubusercontent.com/nickbild/zapper_phone/refs/heads/main/media/transmitter_schematic_crop.jpg)
 
 ## About the Author
 
