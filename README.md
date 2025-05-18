@@ -27,6 +27,12 @@ The other side of the transformer is in series with the power supply for the las
 
 ![](https://raw.githubusercontent.com/nickbild/zapper_phone/refs/heads/main/media/transmitter_schematic_crop.jpg)
 
+### Putting it all together
+
+Check out the [video](https://www.youtube.com/watch?v=N6qzJRUytfU) to see a demo of the Zapper Phone in action.
+
+While the audio quality is very good, the Zapper Phone makes a very bad phone. It requires a direct line-of-sight with a laser, and it has to be aligned almost perfectly to work. But I think it's interesting that this old dog could learn a new trick after all these years just the same.
+
 ## About the Author
 
 [Nick A. Bild, MS](https://nickbild79.firebaseapp.com/#!/)
