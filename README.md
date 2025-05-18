@@ -43,6 +43,8 @@ While the audio quality is very good, the Zapper Phone makes a very bad phone. I
 - 1 x Laser Diode — 5mW 650nm Red
 - 1 x Audio transformer
 - 1 x TRRS breakout board
+- 1 x Speaker
+- 1 x Adafruit Mono 2.5W Class D Audio Amplifier
 
 ## About the Author
 
